@@ -13,4 +13,5 @@ This is the second project of the Web Development program at Practicum. It was c
 
 ## Plan on improving the project
 
-Add your ideas here :)
+I think adding a button at the bottom that sends you back up to the top would be a good
+idea. Or maybe pinning the nav menu to the top of the screen.
