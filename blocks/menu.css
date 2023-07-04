@@ -8,8 +8,6 @@
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  position: relative;
-  z-index: 1;
 }
 
 .menu__title {
@@ -46,4 +44,12 @@
   flex-wrap: wrap;
   gap: 100px;
   justify-content: center;
+}
+
+.card__title {
+  list-style-type: none;
+}
+
+.card__list {
+  padding: 0;
 }

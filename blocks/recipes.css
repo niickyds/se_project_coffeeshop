@@ -46,12 +46,16 @@
   height: 273px;
 }
 
+.recipes__video-item {
+  list-style-type: none;
+}
+
 .recipes__video-caption {
   display: flex;
   margin: 0;
   margin-top: 24px;
   margin-right: auto;
-  justify-content: center;
+  justify-content: space-between;
   color: #fff;
   font-family: "Inter";
   font-style: normal;
