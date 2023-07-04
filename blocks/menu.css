@@ -45,11 +45,3 @@
   gap: 100px;
   justify-content: center;
 }
-
-.card__title {
-  list-style-type: none;
-}
-
-.card__list {
-  padding: 0;
-}

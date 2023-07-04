@@ -13,6 +13,7 @@
   font-weight: bold;
   font-size: 20px;
   line-height: 30px;
+  list-style-type: none;
 }
 
 .card__list-item {
@@ -34,4 +35,8 @@
   border-bottom: solid;
   border-bottom-width: 1px;
   margin: 0 4px 0 4px;
+}
+
+.card__list {
+  padding: 0;
 }
