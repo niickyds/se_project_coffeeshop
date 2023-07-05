@@ -4,6 +4,7 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  padding-bottom: 215px;
 }
 
 .recipes__title {
@@ -36,7 +37,7 @@
   column-gap: 40px;
   margin: 0 auto;
   max-width: 1000px;
-  padding-bottom: 215px;
+  padding: 0;
 }
 
 .recipes__iframe {
