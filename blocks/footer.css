@@ -25,7 +25,7 @@
   margin: 0;
   margin-bottom: 20px;
   color: #fff;
-  font-family: "Inter";
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
@@ -35,7 +35,7 @@
 .footer__list-item {
   margin: 0;
   margin-bottom: 16px;
-  font-family: "Inter";
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -65,10 +65,10 @@
 }
 
 .footer__copyright {
-  margin: 100px 0 0 80px;
+  margin: 108px 0 0 80px;
   padding-bottom: 60px;
   color: #fff;
-  font-family: "Inter";
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;

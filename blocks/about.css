@@ -16,6 +16,7 @@
   display: flex;
   justify-content: flex-end;
   position: relative;
+  overflow: hidden;
 }
 
 .about__title {
